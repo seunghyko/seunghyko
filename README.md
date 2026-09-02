@@ -19,9 +19,10 @@
 
 # 🛠️ Skills
 ### 🖥 Frontend
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ### ⚙️ Backend
-
+[![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
 
 ### 🧠 AI & Machine Learning
 
